@@ -1,5 +1,5 @@
-# Otto_Product_Classification
-Otto group product classification - Kaggle dataset. 
+# Otto Product Classification
+Otto group product classification (Kaggle dataset)
 
 ![Otto](https://storage.googleapis.com/kaggle-competitions/kaggle/4280/media/Grafik.jpg)<br/>
 
